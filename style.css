@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+  background: #333;
+  font-family: 'Lato', sans-serif;
+}
+
+.section {
+  position: relative;
+  height: 1600px;
+}
+
+h2 {
+  top: 20px;
+  position: sticky;
+}
+
+.content p {
+  color: white;
+  font-size: 18px;
+  line-height: 28px;
+    
+}
+
+h2 {
+  width: 20%;
+  color: white;
+  
+}
+
+#section-1 {
+  background: linear-gradient(to right, #36D1DC, #5B86E5);
+}
+
+#section-2 {
+  background: linear-gradient(to right, #0cebeb, #29ffc6);
+}
+
+#section-3 {
+  background: linear-gradient(to right, #1D2B64, #F8CDDA);
+}
+
+#section-4 {
+  background: linear-gradient(to right, #FFE000, #799F0C);
+}
